@@ -1,16 +1,11 @@
-### Hi there 👋
+- 👋 Hi, I’m @GeBakaev
+- 🌱 I help Content Creators use Ai to be more productive.
+- 👀 I’m interested in Machine Learning, Data Analytics, Automation and OSINT.
+- 💻 I know Python, C++, React and Javascript.
+- 🤖 During my freetime I research Ai trends and code OSINT tools.
+- 📫 How to reach me: Instagram: @GeBakaev Or Bakaev.ai / X: @GeBakaev Or Bakaev_ai
 
-<!--
-**GeBakaev/GeBakaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+GBakaev/GBakaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
