@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeBakaev
-- 🌱 I help Content Creators use Ai to be more productive.
+- 🌱 I help content creators boost productivity with AI.
 - 👀 I’m interested in Machine Learning, Data Analytics, Automation and OSINT.
 - 💻 I know Python, C++, React and Javascript.
 - 🤖 During my freetime I research Ai trends and code OSINT tools.
