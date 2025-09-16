@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning, Data Analytics, Automation and OSINT.
 - 💻 I know Python, C++, React and Javascript.
 - 🤖 During my freetime I research Ai trends and code OSINT tools.
-- 📫 How to reach me: LinkedIn: @GeBakaev Or Bakaev-ai / X: @GeBakaev Or Bakaev_ai
+- 📫 How to reach me: LinkedIn: @GeBakaev Or Bakaev-dev / X: @GeBakaev Or Bakaev_dev
 
 <!---
 GBakaev/GBakaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
