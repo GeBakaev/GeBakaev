@@ -1,6 +1,6 @@
-### Hi, I'm George — founder of [Bakaev](https://bakaev.dev) 👋
+### Hi, I'm George — founder of [Bakaev](https://bakaev.dev)
 
-I build **AI signal infrastructure for VC and investment teams**. Currently embedded as the senior engineer at Fintent, where the platform I rebuilt processes over a billion data points a day.
+I build **data infrastructure for VC and investment teams.**. Currently embedded as the senior engineer at Fintent, where the platform I rebuilt processes over a billion data points a day.
 
 #### What I work on
 
