@@ -23,7 +23,6 @@ Modern data stack tooling, MCP and agentic infrastructure, OSINT and open data s
 ## How to reach me
 
 - Web: [bakaev.dev](https://bakaev.dev)
-- Data Sprint (2-week paid audit + working POC): [bakaev.dev/data-sprint](https://bakaev.dev/data-sprint)
 - LinkedIn: [@GeBakaev](https://linkedin.com/in/gebakaev)
 - X: [@GeBakaev](https://x.com/gebakaev)
 - Email: [george@bakaev.dev](mailto:george@bakaev.dev)
