@@ -1,10 +1,10 @@
 # George Bakaev
 
-I build data infrastructure for investment teams and fintechs.
+I build data infrastructure for investment teams and fintechs: numbers you can trust and a data bill that makes sense.
 
-For four years I built [Fintent](https://fintent.ai)'s data platform from the ground up. It now processes over a billion records a day on 60% lower infrastructure cost, and the daily run has completed every day since launch. I still run and improve it monthly.
+For four years I built and ran [Fintent](https://fintent.ai)'s data platform end to end. It processes over a billion records a day, has completed its daily run every day since launch, and I cut its cloud bill 74%.
 
-Independent practice at [bakaev.dev](https://bakaev.dev).
+Independent practice at [bakaev.dev](https://bakaev.dev). Most clients start with a [one-week Review](https://bakaev.dev/review).
 
 ## What I work on
 
@@ -12,12 +12,13 @@ Pipelines, integrations between scattered tools, internal analytics and AI-ready
 
 ## Stack
 
-- **Data:** Google Cloud (BigQuery, Dataflow, Pub/Sub, Cloud Composer, Cloud Storage), AWS, Snowflake, Airflow
-- **Languages:** Python, SQL, TypeScript with React. Some Go and C++ for the lower-level work.
+- **Data:** Google Cloud (BigQuery, Dataflow, Pub/Sub, Cloud Composer, Cloud Storage), AWS (Redshift, S3, Lambda, Athena, Glue), Snowflake, Airflow
+- **Languages:** Python, SQL, TypeScript with React
 - **Running it:** Docker, Celery, Redis, Datadog
 
 ## Writing
 
+- [Nobody should hand-edit a number](https://bakaev.dev/writing/nobody-should-hand-edit-a-number)
 - [The pipeline is green and the number is wrong](https://bakaev.dev/writing/pipeline-green-number-wrong)
 - [Reading a cloud bill like a P&L](https://bakaev.dev/writing/reading-a-cloud-bill-like-a-pnl)
 - [Why most data stacks break at the second million records](https://bakaev.dev/writing/data-stacks-break-second-million)
@@ -31,6 +32,6 @@ MCP and agentic infrastructure, modern data stack tooling, OSINT and open data s
 
 - Web: [bakaev.dev](https://bakaev.dev)
 - Book a call: [cal.com/bakaev/intro-call](https://cal.com/bakaev/intro-call)
-- LinkedIn: [@GeBakaev](https://linkedin.com/in/gebakaev)
-- X: [@GeBakaev](https://x.com/gebakaev) · [@bakaev_dev](https://x.com/bakaev_dev)
+- LinkedIn: [in/gebakaev](https://linkedin.com/in/gebakaev)
+- X: [@GeBakaev](https://x.com/gebakaev) and [@bakaev_dev](https://x.com/bakaev_dev)
 - Email: [george@bakaev.dev](mailto:george@bakaev.dev)
