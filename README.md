@@ -1,14 +1,14 @@
 # George Bakaev
 
-I build data infrastructure for investment teams and fintechs: numbers you can trust and a data bill that makes sense.
+I'm a senior data engineer. I build and run data platforms for investment and fintech products on Google Cloud and AWS.
 
 For four years I built and ran [Fintent](https://fintent.ai)'s data platform end to end. It processes over a billion records a day, has completed its daily run every day since launch, and I cut its cloud bill 74%.
 
-Independent practice at [bakaev.dev](https://bakaev.dev). Most clients start with a [one-week Review](https://bakaev.dev/review).
+I'm open to senior data engineering roles and contract work, remote on EMEA hours or on site in the UAE.
 
 ## What I work on
 
-Pipelines, integrations between scattered tools, internal analytics and AI-ready data. Production volume, without the runaway cloud bill.
+Event-driven and batch pipelines, warehouses, data quality and reconciliation, cloud cost, and AI-ready data.
 
 ## Stack
 
@@ -31,7 +31,6 @@ MCP and agentic infrastructure, modern data stack tooling, OSINT and open data s
 ## How to reach me
 
 - Web: [bakaev.dev](https://bakaev.dev)
-- Book a call: [cal.com/bakaev/intro-call](https://cal.com/bakaev/intro-call)
 - LinkedIn: [in/gebakaev](https://linkedin.com/in/gebakaev)
-- X: [@GeBakaev](https://x.com/gebakaev) and [@bakaev_dev](https://x.com/bakaev_dev)
+- X: [@GeBakaev](https://x.com/gebakaev)
 - Email: [george@bakaev.dev](mailto:george@bakaev.dev)
