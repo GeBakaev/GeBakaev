@@ -12,7 +12,8 @@ Event-driven and batch pipelines, warehouses, data quality and reconciliation, c
 
 ## Stack
 
-- **Data:** Google Cloud (BigQuery, Dataflow, Pub/Sub, Cloud Composer, Cloud Storage), AWS (Redshift, S3, Lambda, Athena, Glue), Snowflake, Airflow
+- **Data:** Google Cloud (BigQuery, Dataflow, Pub/Sub, Cloud Composer, Cloud Storage), AWS (Redshift, S3, Lambda, Athena, Glue), Snowflake, Airflow, dbt
+- **Streaming:** Kafka, Flink, Iceberg
 - **Languages:** Python, SQL, TypeScript with React
 - **Running it:** Docker, Celery, Redis, Datadog
 
